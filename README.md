@@ -1,0 +1,1 @@
+This repository is a simple test of using GitHub for the purpose of curriculum development via text files.
